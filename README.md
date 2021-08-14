@@ -64,5 +64,5 @@ npm start
 ```
 ### or
 ```bash
-yarn start
+yarn
 ```
